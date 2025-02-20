@@ -1,16 +1,6 @@
 # IMMERZA
 ![image](https://github.com/user-attachments/assets/cf637434-7012-4e31-9e10-953f2274064e)
-## What is IMMERZA
-Immerza is a **VR-powered mindfulness platform** that combines guided meditation, biofeedback technology, and immersive experiences to help users improve their mental well-being.  
-
-With **breath-controlled navigation** and **personalized environments**, Immerza adapts to your needs, creating a truly unique mindfulness experience.
-
-### Key Features  
-- Explore **interactive VR environments** tailored to different emotional states.  
-- **Breath-synced navigation** for intuitive movement.  
-- **Personalized meditation experiences** with adaptive biofeedback.  
-- **Guided audio sessions** from expert mindfulness instructors.  
-- **Long-term progress tracking** to visualize your mindfulness journey. 
+Immerza is a **VR-powered mindfulness platform** to help users improve their mental well-being.  
 
 ## Contribute to Immerza.
 📖 **[Immerza Contributor Documentation](https://docs.google.com/document/d/1DdILCpa35ICfFMf-yTtfxvSvj6fxvvt1Sr4FV8D0U-k/edit?usp=sharing)**
