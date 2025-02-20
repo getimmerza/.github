@@ -1,7 +1,7 @@
 
 ![image](https://github.com/user-attachments/assets/8e062035-e12f-4c15-a61e-48467cbae10c)
 
-A **VR-powered mindfulness platform** to help users improve their mental well-being.  
+**VR-powered mindfulness platform** to help users improve their mental well-being.  
 
 ## Contribute to Immerza.
 📖 **[Immerza Contributor Documentation](https://docs.google.com/document/d/1DdILCpa35ICfFMf-yTtfxvSvj6fxvvt1Sr4FV8D0U-k/edit?usp=sharing)**
