@@ -30,12 +30,6 @@ Immerza supports industry-standard tools for VR content creation:
 Unity XR Interaction Toolkit <br/>
 [PrimeTween](https://github.com/KyryloKuzyk/PrimeTween) <br/>
 
-### 🗂 Internal Documentation  
-- **Playbook & Meeting Notes**: [Access Playbook](https://docs.google.com/document/d/1RjfpiXVxPQvX1smMh7HB7DaW2BPljiK7PqJZt7mse0s/edit?usp=sharing)  
-- **Daily Meeting Link**: [Meeting Calendar](https://meet.google.com/qwu-siok-grw?authuser=1)
-- **Competitor Review Meeting Link**: [Meeting Calendar](https://meet.google.com/anj-miws-qib?authuser=1) 
-- **Figma Design Files**: [Immerza UI/UX on Figma](https://www.figma.com/design/w4hC95HhMb7tizFvJxyRGh/Immerza?node-id=9039-1693&t=wvOF7a6gd8UIWqvN-1)
-
 ### 💬 Communication Channels  
 - **Google Chat Groups**: [Join Team Chat](https://chat.google.com/room/AAAAIGcJR_Y?cls=7)  
 - **Developer Communication Group**: [Join Dev. Group](https://chat.google.com/room/AAAARlUjR3E?cls=7)
@@ -43,10 +37,6 @@ Unity XR Interaction Toolkit <br/>
 ### 📰 Newsletter & Content  
 - **Newsletter Subscription**: [Subscribe to our newsletter](https://immerza.com/#newsletter)  
 
-### 📶  Analytics
-- **Google Analytics**: [Reach out to admins for invitation](https://analytics.google.com/analytics/web/#/p435750984/reports/dashboard?params=_u..nav%3Dmaui%26_u.comparisonOption%3Ddisabled%26_u.date00%3D20241201%26_u.date01%3D20250209%26_r.1..selmet%3D%5B%22conversions%22%5D&r=business-objectives-generate-leads-overview&ruid=business-objectives-generate-leads-overview,business-objectives,generate-leads&collectionId=business-objectives) 
- - **Framer Analytics**: [Reach out to admins for invitation](https://framer.com/projects/Immerza-LS--1ywhcA3bJk0ZiONY8fKV-6qzp6)
-   
 ### 📢 Social Media Accounts
 - **Instagram**: [Immerza on Instagram](https://www.instagram.com/immerzaxr/)   
 - **LinkedIn**: [Immerza on LinkedIn](https://www.linkedin.com/company/immerza)  
