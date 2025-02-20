@@ -1,5 +1,5 @@
 # IMMERZA
-![image](https://github.com/user-attachments/assets/cf637434-7012-4e31-9e10-953f2274064e)
+![image](https://github.com/user-attachments/assets/8e062035-e12f-4c15-a61e-48467cbae10c)
 
 A **VR-powered mindfulness platform** to help users improve their mental well-being.  
 
