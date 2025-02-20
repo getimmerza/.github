@@ -22,8 +22,7 @@ Unity XR Interaction Toolkit <br/>
 [PrimeTween](https://github.com/KyryloKuzyk/PrimeTween) <br/>
 
 ### 💬 Communication Channels  
-- **Google Chat Groups**: [Join Team Chat](https://chat.google.com/room/AAAAIGcJR_Y?cls=7)  
-- **Developer Communication Group**: [Join Dev. Group](https://chat.google.com/room/AAAARlUjR3E?cls=7)
+- **Developer Communication Group**: [Join Dev. Group](**https://chat.google.com/room/AAAARlUjR3E?cls=7**)
 
 ### 📰 Newsletter & Content  
 - **Newsletter Subscription**: [Subscribe to our newsletter](https://immerza.com/#newsletter)  
