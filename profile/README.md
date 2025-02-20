@@ -1,6 +1,7 @@
 # IMMERZA
 ![image](https://github.com/user-attachments/assets/cf637434-7012-4e31-9e10-953f2274064e)
-Immerza is a **VR-powered mindfulness platform** to help users improve their mental well-being.  
+
+A **VR-powered mindfulness platform** to help users improve their mental well-being.  
 
 ## Contribute to Immerza.
 📖 **[Immerza Contributor Documentation](https://docs.google.com/document/d/1DdILCpa35ICfFMf-yTtfxvSvj6fxvvt1Sr4FV8D0U-k/edit?usp=sharing)**
